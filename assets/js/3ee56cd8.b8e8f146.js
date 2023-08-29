@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksudocs=self.webpackChunksudocs||[]).push([[610],{750:s=>{s.exports=JSON.parse('{"permalink":"/sudocs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

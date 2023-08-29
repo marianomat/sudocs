@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksudocs=self.webpackChunksudocs||[]).push([[97],{9099:s=>{s.exports=JSON.parse('{"permalink":"/sudocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
