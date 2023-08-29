@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Sudocu',
-    src: '/img/sudocu.svg',
+    src: 'sudocs/img/sudocu.svg',
     description: (
       <>
         Sistema Único Documental
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Pilagá',
-    src: '/img/pilaga.svg',
+    src: 'sudocs/img/pilaga.svg',
     description: (
       <>
        Módulo económico, presupuestario, financiero y contable
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Diaguita',
-    src: '/img/diaguita.svg',
+    src: 'sudocs/img/diaguita.svg',
     description: (
       <>
         Módulo de compras, contrataciones y patrimonio
