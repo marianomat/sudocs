@@ -1,0 +1,8 @@
+{
+  "label": "Trámites frecuentes",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Guías rápidas sobre los trámites más comunes"
+  }
+}
