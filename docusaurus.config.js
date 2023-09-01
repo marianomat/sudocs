@@ -74,24 +74,24 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentación',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Trámites frecuentes SUDOCU',
                 to: '/docs/solicitud-express',
               },
             ],
           },
           {
-            title: 'Comunidad',
+            title: 'Apps',
             items: [
               {
-                label: 'Facebook',
-                href: 'https://www.facebook.com/UNRoficial/',
+                label: 'UNIR',
+                href: 'https://unir.unr.edu.ar/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/UNRoficial',
+                label: 'SUDOCU',
+                href: 'https://unir.unr.edu.ar/sudocu/gestion/',
               },
             ],
           },
@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} - UNR`,
       },
       prism: {
         theme: lightCodeTheme,
