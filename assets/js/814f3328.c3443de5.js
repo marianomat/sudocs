@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksudocs=self.webpackChunksudocs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenido","permalink":"/sudocs/blog/welcome"}]}')}}]);

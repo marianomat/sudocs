@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksudocs=self.webpackChunksudocs||[]).push([[173],{6772:s=>{s.exports=JSON.parse('{"permalink":"/sudocs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
