@@ -78,7 +78,7 @@ const config = {
             items: [
               {
                 label: 'Trámites frecuentes SUDOCU',
-                to: '/docs/solicitud-express',
+                to: '/docs/category/trámites-frecuentes-sudocu',
               },
             ],
           },
